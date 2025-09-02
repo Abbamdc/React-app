@@ -1,0 +1,34 @@
+{
+    "students": [
+        {
+            "name": "Abba Sabiu",
+            "class": "2021",
+            "id": "039",
+            "department": "CHEW"
+        },
+         {
+            "name": "Aminu sabiu",
+            "class": "2021",
+            "id": "040",
+            "department": "HIT"
+        },
+         {
+            "name": "ismail datti",
+            "class": "2021",
+            "id": "038",
+            "department": "CHEW"
+        },
+         {
+            "name": "usman muhd",
+            "class": "2021",
+            "id": "039",
+            "department": "CHEW"
+        },
+         {
+            "name": "aliyu auwal",
+            "class": "2021",
+            "id": "039",
+            "department": "X-RAY"
+        }
+    ]
+}
